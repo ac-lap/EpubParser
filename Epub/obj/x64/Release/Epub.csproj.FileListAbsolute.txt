@@ -1,0 +1,16 @@
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\bin\x64\Release\Epub.dll
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\bin\x64\Release\Epub.pdb
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\bin\x64\Release\Epub.pri
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\Epub.dll
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\Epub.pdb
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\priconfig.xml
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\priconfig.xml.intermediate
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\layout.resfiles
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\layout.resfiles.intermediate
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\resources.resfiles
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\resources.resfiles.intermediate
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\pri.resfiles
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\pri.resfiles.intermediate
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\qualifiers.txt
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\qualifiers.txt.intermediate
+E:\VS\Workspaces\ReadAloud 2\ReadAloud2\Epub\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
